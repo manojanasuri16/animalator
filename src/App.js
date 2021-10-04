@@ -21,7 +21,7 @@ export default function App() {
     let userInput = event.target.value;
     let meaning = animalEmojis[userInput];
     if (meaning === undefined) {
-      meaning = "we don't have this in our database";
+      meaning = "error, unknown emoji";
     }
     setMeaning(meaning);
   };
