@@ -33,7 +33,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <h1>🐘Animalator🦌</h1>
+      <h1>🐘Hello Animals🦌</h1>
       <input
         placeholder="Enter emoji to get its meaning"
         onChange={inputChangeHandler}
