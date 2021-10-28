@@ -6,7 +6,7 @@ const animalEmojis = {
   "🦍": "Gorilla",
   "🐕": "Dog",
   "🐈": "Cat",
-  "🐈‍⬛": "Black Cat",
+  "🐇": "Rabbit",
   "🐅": "Tiger",
   "🐎": "Horse",
   "🦏": "Rhinoceros"
